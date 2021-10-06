@@ -1,1 +1,3 @@
-# Fouille-de-données
+# Data Mining
+
+Exploring NIPS conference data.
